@@ -5,11 +5,11 @@ Un petit site pour enregistrer des candidats.
 ##Enregistrement d'un candidat
 
 Enregistrement avec:
--Prénom.
--Nom.
--Âge.
--Commentaire.
--Note par système d'étoiles.
+* -Prénom.
+* -Nom.
+* -Âge.
+* -Commentaire.
+* -Note par système d'étoiles.
 
 ##Listage des candidats
 
