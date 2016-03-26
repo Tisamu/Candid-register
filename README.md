@@ -14,4 +14,4 @@ Enregistrement avec:
 ##Listage des candidats
 
 Liste des candidats disponibles dans un menu déroulant
-Faisant apparaitre les informations relatives au candidat.
+faisant apparaitre les informations relatives au candidat.
